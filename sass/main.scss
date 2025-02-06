@@ -1,0 +1,23 @@
+@use './colors' as *;
+@use './animations' as *;
+
+
+@use './components/header' as *;
+@use './components/nav' as *;
+@use './components/cards' as *;
+@use './components/invest' as *;
+@use './components/plans' as *;
+@use './components/newsletter' as *;
+@use './components/gallery' as *;
+@use './components/contact' as *;
+@use './components/footer' as *;
+
+@use './components/hamburger' as *;
+
+@use './components/small' as *;
+@use './components/medium' as *;
+@use './components/large' as *;
+
+@use './components/main2' as *;
+
+
